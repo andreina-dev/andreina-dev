@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Dayana 👋
 
-<!--
-**andreina-dev/andreina-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineer and PHP & Laravel Developer based in Orlando, FL.
+I have experience building CRM and intranet systems with Laravel.
+I'm currently refreshing my skills and building modern web applications.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+PHP · Laravel · MySQL · JavaScript · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+A SaaS application with subscriptions, authentication, dashboards, and an AI chatbot, built with Laravel 13.
+
+## 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/dayana-semprun-cardenas)
