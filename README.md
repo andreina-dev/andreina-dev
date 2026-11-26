@@ -1,8 +1,11 @@
 # Hi, I'm Dayana 👋
 
-Systems Engineer and PHP & Laravel Developer based in Orlando, FL.
-I have experience building CRM and intranet systems with Laravel.
-I'm currently refreshing my skills and building modern web applications.
+Systems Engineer and **PHP & Laravel Developer** based in Orlando, FL.
+
+- 💼 Built CRM and intranet systems with Laravel at a logistics company in Chile
+- 🔄 Currently refreshing my skills with Laravel 13, Livewire, Docker and Pest
+- 🎯 Open to junior / mid-level developer opportunities
+- 🌎 Spanish (native) · English (intermediate, actively improving)
 
 ## 🛠️ Tech Stack
 PHP · Laravel · Livewire · MySQL · SQLite · JavaScript · Git · Docker (Laravel Sail) · Linux (WSL2) · Pest
